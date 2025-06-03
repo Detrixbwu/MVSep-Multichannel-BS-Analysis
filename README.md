@@ -20,4 +20,4 @@ When tested with Dolby Atmos tracks (e.g. from TIDAL), the model consistently ou
 - **6 vocal channels**
 - **6 instrumental channels**
 
-Each group is delivered as a **6-channel FLAC file** (or other format of choice). Typical output specs:
+Each group is delivered as a **6-channel FLAC file** (or other format of choice). Typical output specs: FLAC, 48.0 kHz, 24 bits, 6 channels, ~3 342 kb/s
